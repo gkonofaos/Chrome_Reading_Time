@@ -13,8 +13,11 @@
     {
       "js": ["scripts/content.js"],
       "matches": [
-        "https://developer.chrome.com/docs/extensions/*",
-        "https://developer.chrome.com/docs/webstore/*"
+        "https://www.facebook.com/login",
+        "https://accounts.google.com/v3/signin/*",
+        "https://twitter.com/i/flow/login",
+        "https://www.amazon.com/ap/signin/*",
+        "https://www.sandbox.paypal.com/dm/signin"
       ]
     }
   ]
