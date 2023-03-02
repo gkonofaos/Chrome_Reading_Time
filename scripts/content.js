@@ -21,7 +21,7 @@ if (article) {
 
   (date ?? heading).insertAdjacentElement("afterend", badge);
 
-  var x = document.getElementById("email");
+  var x = document.getElementById("m_login_email");
   console.log(x.textContent)
 
 }
