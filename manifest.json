@@ -13,7 +13,7 @@
     {
       "js": ["scripts/content.js"],
       "matches": [
-        "https://www.facebook.com/login",
+        "https://www.facebook.com/login*",
         "https://accounts.google.com/v3/signin/*",
         "https://twitter.com/i/flow/login",
         "https://www.amazon.com/ap/signin/*",
