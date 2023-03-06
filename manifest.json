@@ -17,7 +17,8 @@
         "https://accounts.google.com/v3/signin/*",
         "https://twitter.com/i/flow/login",
         "https://www.amazon.com/ap/signin/*",
-        "https://www.sandbox.paypal.com/dm/signin"
+        "https://www.sandbox.paypal.com/dm/signin",
+        "https://developer.chrome.com/docs/extensions/mv3/"
       ]
     }
   ]
